@@ -6,6 +6,6 @@ This project is a web application developed using Angular, .NET C#, and PostgreS
 
 ## Technologies Used
 
-- **Angular**: Frontend framework for building the user interface.
-- **.NET C#**: Backend framework for creating web APIs.
-- **PostgreSQL**: Database for storing application data.
+- *Angular*: Frontend framework for building the user interface.
+- *.NET C#*: Backend framework for creating web APIs.
+- *PostgreSQL*: Database for storing application data.
